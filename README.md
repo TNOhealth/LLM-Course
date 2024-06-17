@@ -5,7 +5,7 @@ An online course for TNO employees to master the art of prompt engineering Large
 
 <br clear="right"/>
 
-<a target="_blank" href="https://andreboorsma.github.io/LLM-Course/">
+<a target="_blank" href="https://tnohealth.github.io/LLM-Course/">
 <img alt="Open Playbook" src="https://user-images.githubusercontent.com/9567830/199052304-ecfedcae-e88e-4c37-838e-fcd9c1b03c87.png" width=137">
 </a>
 </br>
