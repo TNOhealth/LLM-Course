@@ -6,6 +6,12 @@ root: intro
 
 parts:
 
+  -caption: Short Introduction on LLMs
+    chapters:
+    -file: short-introduction-on-llms/intro
+    -file: short-introduction-on-llms/what-are-large-language-models
+    -file: short-introduction-on-llms/llms-throughout-the-orgnanisation
+  
   - caption: Data Sharing Approaches
     chapters:
     - file: data-sharing-approaches/intro
