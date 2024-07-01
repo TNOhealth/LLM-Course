@@ -12,6 +12,7 @@ parts:
     - file: short-introduction-on-llms/large-language-models
     - file: short-introduction-on-llms/use-of-llms
     - file: short-introduction-on-llms/which-llm-to-use
+
   
   - caption: Guidelines TNO GenAI 
     chapters:
