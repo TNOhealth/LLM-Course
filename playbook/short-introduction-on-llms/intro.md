@@ -1,7 +1,9 @@
-# short introduction on large language models
+# Short introduction on large language models
 
 </br>
+
 In this chapter you will learn about:
+
 *	 What Large Language Models are
 *	 The possibilities and limitations of Large Language models 
 *	 Understanding the fine art of Prompt Engineering
