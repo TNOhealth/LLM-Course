@@ -1,8 +1,8 @@
-# Use of Large Language Models
+# Which LLM application to use?
 
 </br>
 
-Since LLMs and their application have a broad range of applications. LLMs can be used for several tasks. Organizations use LLMs to create Chatbots or virtual assistance that are able to have conversations in natural language. LLMs are used for code generation and debugging, for sentiment analysis. LLMs are very useful for text classification and clustering for example making an outline for a whitepaper. LLMs can be used for translating text, summarizing and paraphrasing but also for content generation and ideation to name a few. 
+Whitin TNO the default LLM appliction is Co-pilot. Co-pilot is already build in a lot of the microsoft applications and works as an assistant. At the time of developing this course All examples in this course are being performed with ChatGPT4 (Open AI). Other popular LLMs Gemini (Google), Co-Pilot (Microsoft, ChatGPT-4), Claude (Anthropic). A nice way to compare the LLM models is using the POE application. POE allows to use and compare different models. It also allows to easily create personal chatbots. In Chapter .. of this course and example of building a personal chatbot will be given. 
 
 ```{figure} ./_static/img/datastrategy1.png
 ---
