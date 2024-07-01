@@ -415,7 +415,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -431,6 +433,14 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#chatgpt-4-example">ChatGPT-4 example</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -447,9 +457,11 @@ document.write(`
 <p>However, it’s important to remember that this parrot doesn’t actually understand what it’s saying. It doesn’t know what “weather” is or what “raining cats and dogs” means. It’s simply learned that certain responses are likely to follow certain prompts, based on the patterns it’s observed in human conversation.</p>
 <p>In a similar way, Large Language Models (LLMs) like OpenAI’s GPT-4 are AI systems that have been trained on a massive amount of text data and code (see figure 1). They learn the patterns, structures, and common phrases in the language, and use this knowledge to generate human-like text based on a given prompt. However, like the parrot, they don’t truly understand the meaning of the text they generate - they’re predicting the most likely response based on their training.
 In the context of a course on prompt engineering, this understanding is crucial. When crafting prompts for an LLM, it’s important to keep in mind that the model is trying to predict a likely response based on its training, not truly understanding the prompt or the implications of its response.</p>
+<section id="chatgpt-4-example">
+<h2>ChatGPT-4 example<a class="headerlink" href="#chatgpt-4-example" title="Permalink to this heading">#</a></h2>
 <p>And we have taken off! Actually this piece was (mostly) written by ChatGPT-4 (see the screenshot below). The block of the green A represents the ‘prompt’ and the purple block represents the answer to this prompt. The main message of ChatGPT is that LLMs are not ‘smart’ or ‘intelligent’, in fact LLMs are complex statistical models that are trained on a massive amount of text that have been collected from the world wide web, this includes online books and all kind of web-pages. These models have the capacity to generating human-like text in response to prompt.</p>
-<figure class="align-default" id="datastrategy1">
-<a class="reference internal image-reference" href="short-introduction-on-llms/_static/img/datastrategy1.png"><img alt="short-introduction-on-llms/_static/img/datastrategy1.png" src="short-introduction-on-llms/_static/img/datastrategy1.png" style="height: 464px;" /></a>
+<figure class="align-default" id="chatgpt-example">
+<a class="reference internal image-reference" href="../_images/llm_fig2.png"><img alt="../_images/llm_fig2.png" src="../_images/llm_fig2.png" style="height: 464px;" /></a>
 </figure>
 <p>The most simple form of Copy and Download is by sending data files, such as excel files or compressed archives, via email or via a public download link. More advanced and secure methods are for example by creating Application Programming Interfaces <a class="reference external" href="https://www.hl7.org/fhir/http.html">(API)</a> that control access to the data, through a secure or private download link.</p>
 <p>In most cases the <em>data controller</em> and <em>data recipient</em> make a legal agreement in which the limitations of further data usage are being described. Still, Copy and Download poses the problem of losing control over the spread of data, does not impose limitations on resharing or copying of data and does not inherently provide means of tracking data access. This can raise privacy concerns and makes the method unsuitable when dealing with sensitive data.</p>
@@ -460,6 +472,7 @@ In the context of a course on prompt engineering, this understanding is crucial.
 <p class="admonition-title">See also</p>
 <p><em>Bringing Code to Data: Do Not Forget Governance</em>, article available on <a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/32540846/">PubMed</a>.</p>
 </div>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -516,6 +529,20 @@ In the context of a course on prompt engineering, this understanding is crucial.
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#chatgpt-4-example">ChatGPT-4 example</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
