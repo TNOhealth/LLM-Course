@@ -11,14 +11,13 @@ parts:
     - file: short-introduction-on-llms/intro
     - file: short-introduction-on-llms/large-language-models
     - file: short-introduction-on-llms/use-of-llms
-
+    - file: short-introduction-on-llms/which-llm-to-use
   
-  - caption: Data Sharing Approaches
+  - caption: Guidelines TNO GenAI 
     chapters:
-    - file: data-sharing-approaches/intro
-    - file: data-sharing-approaches/copy-and-download
-    - file: data-sharing-approaches/researcher-to-data
-    - file: data-sharing-approaches/model-to-data
+    - file: guidelines-tno-genai/intro
+    - file: guidelines-tno-genai/guidelines-tno
+    - file: guidelines-tno-genai/ethical-considerations
 
    
   - caption: FAIR Data Exchange
