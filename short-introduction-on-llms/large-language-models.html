@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Large Language Models &#8212; Beginners guide for prompt engineering LLMs</title>
+    <title>What are Large Language Models &#8212; Beginners guide for prompt engineering LLMs</title>
   
   
   
@@ -171,7 +171,7 @@ const thebe_selector_output = ".output, .cell_output"
         <p aria-level="2" class="caption" role="heading"><span class="caption-text">Short Introduction on LLMs</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="intro.html">Short introduction on large language models</a></li>
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Large Language Models</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">What are Large Language Models</a></li>
 <li class="toctree-l1"><a class="reference internal" href="use-of-llms.html">Use of Large Language Models</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Data Sharing Approaches</span></p>
@@ -426,7 +426,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Large Language Models</h1>
+    <h1>What are Large Language Models</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -440,10 +440,14 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="large-language-models">
-<h1>Large Language Models<a class="headerlink" href="#large-language-models" title="Permalink to this heading">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="what-are-large-language-models">
+<h1>What are Large Language Models<a class="headerlink" href="#what-are-large-language-models" title="Permalink to this heading">#</a></h1>
 </br>
-<p><strong>Copy and Download</strong> is the most simple data sharing approach where the <em>data controller</em> shares copies of data directly with other parties, the <em>data recipients</em>. This approach is the easy to implement and is still being used the most, but comes with a number of drawbacks.</p>
+<p>But first start with the question what are Large Language Models (LLMs)? So let’s start. You have probably heard of the application ChatGPT that is able to answer questions, translate text and to have human like conversations. ChatGPT is built upon a LLM, GPT-3 or GPT-4, an algorithm that enables ChatGPT to perform it’s tricks. So how can such an algorithm do this? Imagine you have a parrot that’s been around people its entire life, and it’s heard countless conversations about a huge array of topics. Over time, it’s learned to mimic human speech pretty convincingly, to the point where it can respond to your comments or questions with relevant phrases it’s heard before. If you ask it “How’s the weather?”, it might reply with “It’s raining cats and dogs!” because it’s heard that phrase used to describe heavy rain.</p>
+<p>However, it’s important to remember that this parrot doesn’t actually understand what it’s saying. It doesn’t know what “weather” is or what “raining cats and dogs” means. It’s simply learned that certain responses are likely to follow certain prompts, based on the patterns it’s observed in human conversation.</p>
+<p>In a similar way, Large Language Models (LLMs) like OpenAI’s GPT-4 are AI systems that have been trained on a massive amount of text data and code (see figure 1). They learn the patterns, structures, and common phrases in the language, and use this knowledge to generate human-like text based on a given prompt. However, like the parrot, they don’t truly understand the meaning of the text they generate - they’re predicting the most likely response based on their training.
+In the context of a course on prompt engineering, this understanding is crucial. When crafting prompts for an LLM, it’s important to keep in mind that the model is trying to predict a likely response based on its training, not truly understanding the prompt or the implications of its response.</p>
+<p>And we have taken off! Actually this piece was (mostly) written by ChatGPT-4 (see the screenshot below). The block of the green A represents the ‘prompt’ and the purple block represents the answer to this prompt. The main message of ChatGPT is that LLMs are not ‘smart’ or ‘intelligent’, in fact LLMs are complex statistical models that are trained on a massive amount of text that have been collected from the world wide web, this includes online books and all kind of web-pages. These models have the capacity to generating human-like text in response to prompt.</p>
 <figure class="align-default" id="datastrategy1">
 <a class="reference internal image-reference" href="short-introduction-on-llms/_static/img/datastrategy1.png"><img alt="short-introduction-on-llms/_static/img/datastrategy1.png" src="short-introduction-on-llms/_static/img/datastrategy1.png" style="height: 464px;" /></a>
 </figure>
