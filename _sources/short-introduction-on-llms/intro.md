@@ -2,14 +2,14 @@
 
 </br>
 In this chapter you will learn about:
-*	What Large Language Models are
-*	The possibilities and limitations of Large Language models 
-*	Understanding the fine art of Prompt Engineering
-*	The Role of Prompts in AI Research and Applications
+*	 What Large Language Models are
+*	 The possibilities and limitations of Large Language models 
+*	 Understanding the fine art of Prompt Engineering
+*	 The Role of Prompts in AI Research and Applications
 
-Welcome to "Prompt Engineering for TNO employees." This course is designed to provide comprehensive insights into the exciting and emerging field of prompt engineering. The course serves as a valuable resource for four types of TNO employees; scientists, business developers, project leaders, data scientists and scientific programmers who aim to leverage the power of artificial intelligence in their work.
+Welcome to "Prompt Engineering for TNO employees." This course is designed to provide  insights into the exciting and emerging field of prompt engineering. The course serves as a valuable resource for TNO employees who are relatively new to the use of GenAI.
 
-```{figure} ./_static/img/datastrategies.png
+```{figure} ./_static/img/llm_fig1.png
 ---
 height: 299px
 name: datastrategies
