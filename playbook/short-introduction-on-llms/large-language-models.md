@@ -24,6 +24,6 @@ name: ChatGPT example
  </br>
 
 :::{note}
-: a critical piece about generative A.I. and LLMs in particular you can find here [here](https://pubmed.ncbi.nlm.nih.gov/32540846) . If you want to get in more dept about how ChatGPT was built, wolfram alpha has a very good and readable [article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+a critical piece about generative A.I. and LLMs in particular you can find here [here](https://pubmed.ncbi.nlm.nih.gov/32540846) . If you want to get in more dept about how ChatGPT was built, wolfram alpha has a very good and readable [article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 :::
 
