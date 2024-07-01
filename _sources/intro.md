@@ -5,12 +5,7 @@
 This course is developed for TNO employees who are relatively new to the world of Large Language Models (LLMs) and want to learn how to efficiently make use of these models for example via the application ChatGPT. This ‘art’ is also known as ‘prompt engineering’, a skill that did not exist till late 2023 when OpenAI made ChatGPT available to the general public. The course will cover the basics of prompt engineering and how it can be used to create complex prompt-based applications for scientific research, writing, communication, programming and data science, project leader and business development skills. The use of this models is sometimes referred to a as ‘augmented intelligence’, it holds the potential to make smart people even more smarter.
 
 ## For whom
-The guidelines provided here aim to help those wishing to share and re-use health data. It consists of information and resources with references to the state-of-the-art in the scientific community, as well to provide practical advice and available solutions to further investigate. This playbook is written for those interested in learning more about the major themes concerning health data sharing and re-usage. 
-
-* For CTOs, data scientists and managers, researchers, software developers and policy makers.  
-* For organizations depending on access health data for their services or products.  
-* For companies wishing to innovate in the health space (re-)using health data. 
-* For hospitals or other primary care institutes that would like to facilitate scientific research or collaborate with business. 
+This course aims particular to TNO employees who are not familiar yet with the use of GenAI and LLMs in particular. This online course will help make you help the first steps in use of GenAI to write or improve texts or to brainstorm and help you create new ideas. 
 
 ## How to use
 
@@ -18,23 +13,19 @@ This playbook can be traversed using the navigation bar to the left, where the i
 
 ## Content
 
+Just like GenAI itself, the content of this course will be updated on a regular pace: 
 The playbook is developed around four important themes that may be addressed separately within the playbook. The major building blocks for health data ecosystems are as follows: 
 
-*  Common data sharing methods
-*  Principles of data reuse
-*  Privacy enhancing technology
-*  Legal guidelines 
+*  Short introduction into LLMs and prompt engineering
+*  Guidelines to use GenAI within TNO
+*  prompting techniques
+*  brainstorm example
+*  usefull links and courses 
 
 :::{note}
 You can navigate this book by using the menu to the right, or by flipping pages at the bottom of each section.
 :::
 
-## Value of this playbook
-Data in the digital health space is scarce and hard to come by. Some data may not even be replicable, such as pandemic data. Sharing data in a secure and privacy-preserving way is challenging and this playbook will guide you through this topic. 
-
-Why share health data or models? Acquiring and storing data can be expensive, building models can be time consuming or dependent on external sources. Reuse and sharing of existing data means a lower operational overhead and a more sustainable data strategy. 
-
-The principles discussed in this playbook not only will make your data and models more manageable, but also increase its value by increasing the scope of possible applications, speeding up data exploration and encouraging reuse of other existing data sources. 
 
 ## Other sources
 Many other organizations are active in the field of health data reuse and ecosystems. A selection of these is listed here:
