@@ -11,7 +11,7 @@ In the context of a course on prompt engineering, this understanding is crucial.
 
 ## ChatGPT-4 example
 
-And we have taken off! Actually this piece was (mostly) written by ChatGPT-4 (see the screenshot below). The block of the green A represents the ‘prompt’ and the purple block represents the answer to this prompt. The main message of ChatGPT is that LLMs are not ‘smart’ or ‘intelligent’, in fact LLMs are complex statistical models that are trained on a massive amount of text that have been collected from the world wide web, this includes online books and all kind of web-pages. These models have the capacity to generating human-like text in response to prompt. 
+And we have taken off! Actually this piece was (mostly) written by ChatGPT-4 see the screenshot below. This also learns us the first prompt: represented by the green A (Answer). The purple block represents the answer to the prompt. The main message of ChatGPT is that LLMs are not ‘smart’ or ‘intelligent’, in fact LLMs are complex statistical models that are trained on a massive amount of text that have been collected from the world wide web, this includes online books and all kind of web-pages. These models have the capacity to generating human-like text in response to prompt. 
 
 
 ```{figure} ./_static/img/llm_fig2.png
