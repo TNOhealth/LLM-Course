@@ -13,7 +13,8 @@ Welcome to "Prompt Engineering for TNO employees." This course is designed to pr
 
 ```{figure} ./_static/img/llm_fig1.png
 ---
-height: 299px
+height: 500px
+width:  500px
 name: figure LLM
 ---
 ```
